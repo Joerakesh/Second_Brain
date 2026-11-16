@@ -108,3 +108,11 @@ The architecture tells us how many neurons are present in each layer. It does no
 ANN architecture determines how information is processed through a network. The input layer receives features, hidden layers learn intermediate representations, and the output layer produces a prediction. In a feed-forward network, information moves from input to output through connected layers.
 
 *Professor's slides: pages 12 and 15.*
+
+## Related notes
+
+- [[00_Learning_Roadmap|Chapter 1 learning roadmap]]
+- [[01_Biological_and_Artificial_Neurons|The artificial neuron building block]]
+- [[05_Weights_Biases_and_Parameters|Weights, biases and parameter counting]]
+- [[06_Activation_Functions|Activation functions inside each layer]]
+- [[07_Learning_Methods_and_Training_Process|Forward pass and training process]]
