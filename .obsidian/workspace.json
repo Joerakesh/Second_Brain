@@ -1,0 +1,225 @@
+{
+  "main": {
+    "id": "048ee245aaecd6d6",
+    "type": "split",
+    "children": [
+      {
+        "id": "79cbdad75a2fe3af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e704a316d254d253",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 - Academics/MSc Data Science/Deep Learning/Chapter - 01/01_Biological_and_Artificial_Neurons.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01_Biological_and_Artificial_Neurons"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "84c069cfe5742a83",
+    "type": "split",
+    "children": [
+      {
+        "id": "62afe4e9ac6ddc43",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d656c11eb6ad439c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "327ebf0cd22714a0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d1a16bd99ecdb5ce",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "abde10407f4e4533",
+    "type": "split",
+    "children": [
+      {
+        "id": "654d55b75ccccebb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c5fb4b78f6d8e25d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "313e0ca92aca55da",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "e369b75840a2858f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d0696175230d42b5",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "26403d746aa665b7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "e704a316d254d253",
+  "lastOpenFiles": [
+    "03 - Academics/MSc Data Science/Deep Learning/Chapter - 01/02_Evolution_of_Artificial_Neural_Networks.md",
+    "03 - Academics/MSc Data Science/Deep Learning/Chapter - 01/01_Biological_and_Artificial_Neurons.md",
+    "Pasted image 20261116214349.png",
+    "Pasted image 20261116213933.png",
+    "Pasted image 20261116213737.png",
+    "Pasted image 20261116213639.png",
+    "file:C:/Users/Joe/Downloads/01_Biological_and_Artificial_Neurons_Updated.md",
+    "03 - Academics/MSc Data Science/Deep Learning/Chapter - 01/00_Learning_Roadmap.md",
+    "03 - Academics/MSc Data Science/Deep Learning/Chapter - 01/08_Loss_Functions.md",
+    "03 - Academics/MSc Data Science/Deep Learning/Chapter - 01/07_Learning_Methods_and_Training_Process.md",
+    "03 - Academics/MSc Data Science/Deep Learning/Chapter - 01/06_Activation_Functions.md",
+    "03 - Academics/MSc Data Science/Deep Learning/Chapter - 01/05_Weights_Biases_and_Parameters.md",
+    "03 - Academics/MSc Data Science/Deep Learning/Chapter - 01/04_ANN_Architecture_and_Feed_Forward_Networks.md",
+    "03 - Academics/MSc Data Science/Deep Learning/Chapter - 01/03_Applications_of_ANN.md",
+    "03 - Academics/MSc Data Science/Deep Learning/Chapter - 01/00_Chapter_1_Learning_Roadmap.md",
+    "03 - Academics/MSc Data Science/Deep Learning/Chapter - 01/10_Chapter_1_Exam_Revision.md",
+    "03 - Academics/MSc Data Science/Deep Learning/Chapter - 01/09_Optimizers_and_Gradient_Descent.md",
+    "03 - Academics/MSc Data Science/Deep Learning/Chapter - 01",
+    "03 - Academics/MSc Data Science/Deep Learning/New folder",
+    "03 - Academics/MSc Data Science/Deep Learning/Chapter 1 – ANN.md",
+    "03 - Academics/MSc Data Science/Deep Learning/10_Chapter_1_Exam_Revision.md",
+    "03 - Academics/MSc Data Science/Deep Learning/09_Optimizers_and_Gradient_Descent.md",
+    "03 - Academics/MSc Data Science/Deep Learning/08_Loss_Functions.md",
+    "03 - Academics/MSc Data Science/Deep Learning/07_Learning_Methods_and_Training_Process.md",
+    "03 - Academics/MSc Data Science/Deep Learning/06_Activation_Functions.md",
+    "03 - Academics/MSc Data Science/Deep Learning/05_Weights_Biases_and_Parameters.md",
+    "03 - Academics/MSc Data Science/Deep Learning/04_ANN_Architecture_and_Feed_Forward_Networks.md",
+    "03 - Academics/MSc Data Science/Deep Learning/03_Applications_of_ANN.md",
+    "03 - Academics/MSc Data Science/Deep Learning/02_Evolution_of_Artificial_Neural_Networks.md",
+    "03 - Academics/MSc Data Science/Deep Learning/01_Biological_and_Artificial_Neurons.md",
+    "03 - Academics/MSc Data Science/Deep Learning/00_Chapter_1_Learning_Roadmap.md",
+    "03 - Academics/MSc Data Science/Deep Learning",
+    "Untitled.base",
+    "YouTube Contents"
+  ]
+}
