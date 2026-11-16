@@ -111,3 +111,11 @@ A loss function measures how wrong the model is; it does not itself decide how t
 Loss functions provide a measurable objective for training a neural network. MSE is commonly used for regression, while binary cross-entropy is commonly used for binary classification. Choosing an appropriate loss function is important because it determines what kind of prediction error the training process tries to reduce.
 
 *Professor's slides: page 19.*
+
+## Related notes
+
+- [[00_Learning_Roadmap|Chapter 1 learning roadmap]]
+- [[03_Applications_of_ANN|Classification and regression tasks]]
+- [[06_Activation_Functions|Activation functions and model outputs]]
+- [[07_Learning_Methods_and_Training_Process|The complete ANN training cycle]]
+- [[09_Optimizers_and_Gradient_Descent|How gradients and optimizers reduce loss]]
