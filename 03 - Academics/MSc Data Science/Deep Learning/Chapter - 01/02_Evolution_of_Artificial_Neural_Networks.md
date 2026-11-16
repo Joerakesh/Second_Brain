@@ -60,3 +60,10 @@ Modern neural networks use multiple layers and large datasets to learn complex r
 The development of neural networks was not a single invention. It was a series of improvements, where each stage addressed limitations in earlier models. The overall journey moved from simple fixed rules to networks capable of learning complex patterns from data.
 
 *Professor's slides: page 6. The dates and milestones above follow the timeline presented in the slides.*
+
+## Related notes
+
+- [[00_Learning_Roadmap|Chapter 1 learning roadmap]]
+- [[01_Biological_and_Artificial_Neurons|Biological inspiration and the artificial neuron]]
+- [[04_ANN_Architecture_and_Feed_Forward_Networks|Modern ANN architecture]]
+- [[06_Activation_Functions|Activation functions used in trainable networks]]
