@@ -150,3 +150,11 @@ If a model is too complex for the available training data, it may overfit. There
 Weights control the influence of input connections, while biases shift a neuron's response. Together, they form the main trainable parameters of a basic ANN. Understanding them is essential because learning in a neural network largely means finding suitable values for these parameters.
 
 *Professor's slides: pages 5, 13–15. The worked neuron example follows page 14.*
+
+## Related notes
+
+- [[00_Learning_Roadmap|Chapter 1 learning roadmap]]
+- [[01_Biological_and_Artificial_Neurons|Artificial-neuron equation]]
+- [[04_ANN_Architecture_and_Feed_Forward_Networks|Layer architecture and dense layers]]
+- [[06_Activation_Functions|How activation transforms the weighted sum]]
+- [[09_Optimizers_and_Gradient_Descent|How training updates weights and biases]]
