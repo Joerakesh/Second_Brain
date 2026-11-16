@@ -98,20 +98,20 @@ Backpropagation calculates gradients. The optimizer uses those gradients to upda
 
 ## 4. Parameter-counting practice
 
-For a network with architecture 3 → 5 → 2:
+For a network with architecture 5 → 4 → 2:
 
 Input to hidden:
-- Weights = 3 × 5 = 15
-- Biases = 5
+- Weights = 5 × 4 = 20
+- Biases = 4
 
 Hidden to output:
-- Weights = 5 × 2 = 10
+- Weights = 4 × 2 = 8
 - Biases = 2
 
 Total:
 
 \[
-15+5+10+2=\boxed{32}
+20+4+8+2=\boxed{34}
 \]
 
 ## 5. Questions to test understanding
@@ -149,3 +149,16 @@ Before moving to Chapter 2, make sure you can explain this without looking at th
 **How does an ANN turn input data into a prediction, measure its error and improve itself?**
 
 If you can explain the neuron equation, the role of layers and activations, the loss function and the optimizer as one connected process, you have understood the foundation of Chapter 1.
+
+## Related notes
+
+- [[00_Learning_Roadmap|Chapter 1 learning roadmap]]
+- [[01_Biological_and_Artificial_Neurons|Biological vs artificial neurons]]
+- [[02_Evolution_of_Artificial_Neural_Networks|Evolution of ANN]]
+- [[03_Applications_of_ANN|Applications of ANN]]
+- [[04_ANN_Architecture_and_Feed_Forward_Networks|ANN architecture]]
+- [[05_Weights_Biases_and_Parameters|Weights, biases and parameter counting]]
+- [[06_Activation_Functions|Activation functions]]
+- [[07_Learning_Methods_and_Training_Process|Learning methods and training]]
+- [[08_Loss_Functions|Loss functions]]
+- [[09_Optimizers_and_Gradient_Descent|Optimizers and gradient descent]]
