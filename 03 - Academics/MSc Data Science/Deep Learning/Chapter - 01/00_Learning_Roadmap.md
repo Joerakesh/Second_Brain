@@ -30,3 +30,16 @@ Some explanations in these notes add background needed to understand the syllabu
 
 ### How to study this chapter
 Do not try to memorise all the formulas at once. First understand the artificial neuron. Then understand how neurons are connected. Once that is clear, activation, loss and optimization will make much more sense.
+
+## Related notes
+
+- [[01_Biological_and_Artificial_Neurons|Biological and artificial neurons]]
+- [[02_Evolution_of_Artificial_Neural_Networks|Evolution of ANNs]]
+- [[03_Applications_of_ANN|Applications of ANNs]]
+- [[04_ANN_Architecture_and_Feed_Forward_Networks|ANN architecture and feed-forward networks]]
+- [[05_Weights_Biases_and_Parameters|Weights, biases and parameters]]
+- [[06_Activation_Functions|Activation functions]]
+- [[07_Learning_Methods_and_Training_Process|Learning methods and training process]]
+- [[08_Loss_Functions|Loss functions]]
+- [[09_Optimizers_and_Gradient_Descent|Optimizers and gradient descent]]
+- [[10_Chapter_1_Exam_Revision|Chapter 1 exam revision]]
