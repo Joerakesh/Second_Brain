@@ -146,3 +146,11 @@ A simple way to remember this is: backpropagation calculates the direction and o
 Optimizers help neural networks learn by updating weights and biases to reduce the loss. Gradient descent provides the basic update idea, while methods such as SGD, RMSprop and Adam offer different ways to perform parameter updates. The learning rate and optimizer choice influence how effectively training progresses.
 
 *Professor's slides: page 20 introduces the optimization loop and update equation. The numerical gradient-descent example and optimizer descriptions provide supporting explanation beyond the brief slide coverage.*
+
+## Related notes
+
+- [[00_Learning_Roadmap|Chapter 1 learning roadmap]]
+- [[05_Weights_Biases_and_Parameters|Parameters being updated]]
+- [[07_Learning_Methods_and_Training_Process|The ANN training cycle]]
+- [[08_Loss_Functions|Loss functions and gradients]]
+- [[10_Chapter_1_Exam_Revision|Chapter 1 formula and concept revision]]
