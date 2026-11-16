@@ -204,3 +204,10 @@ If you can explain the direction of signal flow in a biological neuron and then 
 4. [Medium – Demystifying Artificial Intelligence](https://medium.com/geekculture/demystifying-artificial-intelligence-bdd9a117d4a6) – visual comparison of biological and artificial neural systems.
 
 *The professor's slides remain the syllabus source. The external resources are included to build visual intuition and provide a second explanation.*
+
+## Related notes
+
+- [[00_Learning_Roadmap|Chapter 1 learning roadmap]]
+- [[02_Evolution_of_Artificial_Neural_Networks|How artificial neurons evolved]]
+- [[05_Weights_Biases_and_Parameters|Weights, biases and the artificial-neuron equation]]
+- [[04_ANN_Architecture_and_Feed_Forward_Networks|How neurons form network layers]]
