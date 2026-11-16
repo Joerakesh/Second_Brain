@@ -203,3 +203,10 @@ Non-linear activation functions allow the network to learn more flexible decisio
 Activation functions determine how a neuron transforms its weighted input into an output. Step and sigmoid provide threshold-like and bounded responses, while ReLU and its variants are widely used in modern hidden layers. Selecting a suitable activation function helps the network learn the type of relationship required by the problem.
 
 *Professor's slides: pages 16–18. The syllabus specifically lists Binary step, Sigmoid, ReLU, Leaky ReLU, ELU and SELU.*
+
+## Related notes
+
+- [[00_Learning_Roadmap|Chapter 1 learning roadmap]]
+- [[01_Biological_and_Artificial_Neurons|Weighted sum and artificial-neuron output]]
+- [[04_ANN_Architecture_and_Feed_Forward_Networks|Where activations are used in network layers]]
+- [[08_Loss_Functions|Output activation and task-appropriate loss]]
