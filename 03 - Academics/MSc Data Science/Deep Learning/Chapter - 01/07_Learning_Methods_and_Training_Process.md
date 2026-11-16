@@ -108,3 +108,12 @@ Training adjusts the model's parameters. Inference uses the learned parameters t
 Learning in an ANN means improving its trainable parameters using information from data. The network performs a forward pass, calculates a loss and updates its parameters repeatedly. Understanding this cycle prepares us to study loss functions and optimizers.
 
 *Professor's slides: pages 19–24. The broader supervised, unsupervised and reinforcement learning definitions are additional background to clarify the syllabus phrase “learning methods”.*
+
+## Related notes
+
+- [[00_Learning_Roadmap|Chapter 1 learning roadmap]]
+- [[04_ANN_Architecture_and_Feed_Forward_Networks|Forward pass through the network]]
+- [[05_Weights_Biases_and_Parameters|Trainable weights and biases]]
+- [[06_Activation_Functions|Activation functions in the forward pass]]
+- [[08_Loss_Functions|Step 4: calculate the loss]]
+- [[09_Optimizers_and_Gradient_Descent|Step 5: update parameters]]
