@@ -83,3 +83,10 @@ When using transfer learning, the source and target datasets may differ. This di
 ANNs are useful because they can learn patterns from data and apply those patterns to new examples. Their applications include image recognition, healthcare support, recommendations, finance and sensor analysis. However, predictions must be evaluated carefully and used responsibly.
 
 *Professor's slides: pages 8–11 and 21–22.*
+
+## Related notes
+
+- [[00_Learning_Roadmap|Chapter 1 learning roadmap]]
+- [[04_ANN_Architecture_and_Feed_Forward_Networks|ANN architecture]]
+- [[07_Learning_Methods_and_Training_Process|How ANNs learn from data]]
+- [[08_Loss_Functions|Choosing a loss for a prediction task]]
